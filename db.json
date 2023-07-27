@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work income"
+    },
+    {
+      "id": 2,
+      "description": "Water bill"
+    },
+    {
+      "id": 4,
+      "description": "Power bill"
+    },
+    {
+      "id": "71c07c32-c492-41dc-aad6-de2cc4d27503",
+      "description": "teste2"
+    },
+    {
+      "id": "75bfb7fe-c4df-479c-8379-8fe8afeaf9e6",
+      "description": "teste final"
+    },
+    {
+      "id": "f8adafee-6eea-47a7-867a-e500fba6f097",
+      "description": "teste final 2"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": "10000.00",
+      "isExpense": false
+    },
+    {
+      "id": 2,
+      "value": "20.00",
+      "isExpense": true
+    },
+    {
+      "id": 4,
+      "value": "50.00",
+      "isExpense": true
+    },
+    {
+      "id": "71c07c32-c492-41dc-aad6-de2cc4d27503",
+      "isExpense": true,
+      "value": "123"
+    },
+    {
+      "id": "75bfb7fe-c4df-479c-8379-8fe8afeaf9e6",
+      "isExpense": true,
+      "value": "456789"
+    },
+    {
+      "id": "f8adafee-6eea-47a7-867a-e500fba6f097",
+      "isExpense": false,
+      "value": "123455"
+    }
+  ]
+}
